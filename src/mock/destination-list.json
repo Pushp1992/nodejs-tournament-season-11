@@ -1,0 +1,34 @@
+
+{
+    "statusmessage": "Successful",
+    "statusCode": 1,
+    "data": {
+        "destination": [
+            {
+                "destinationId": 1,
+                "destinationName": "shimla",
+                "state": "Himachal Pradesh",
+                "ratings": 3,
+                "knowFor": "hill station",
+                "bestMonthToVisit": "April"
+            },
+            {
+                "destinationId": 2,
+                "destinationName": "leh",
+                "state": "ladakh",
+                "ratings": 4,
+                "knowFor": "mountains",
+                "bestMonthToVisit": "march"
+            },
+            {
+                "destinationId": 3,
+                "destinationName": "west bengal",
+                "state": "darjling",
+                "ratings": 5,
+                "knowFor": "tea garden",
+                "bestMonthToVisit": "December"
+            }
+        ]
+    }
+ }
+ 
